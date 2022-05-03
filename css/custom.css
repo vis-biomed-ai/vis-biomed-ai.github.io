@@ -1,0 +1,35 @@
+.title a{
+    font-size: 20px;
+}
+
+p.homepage_title {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+p.homepage_subtitle {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+nav.panel.top {
+    background-color: black !important;
+    opacity: 0.8 !important;
+}
+
+
+img.organizer {
+    border-radius: 50%;
+    float: left;
+    width: 100%;
+}
+
+span.organizer_img_container {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.justifyTextAlign {
+    text-align: justify;
+}
