@@ -33,3 +33,28 @@ span.organizer_img_container {
 .justifyTextAlign {
     text-align: justify;
 }
+
+
+/* schedule table */
+td, th {
+    padding: 2px 5px;
+}
+
+th {
+    font-size: 20px;
+}
+
+td.time, th.time {
+   width: 20%;
+}
+
+td.session, th.session{
+    width: 80%
+}
+
+tr.border-top {
+    border-top: 1px solid white;
+}
+tr.border-bottom {
+    border-bottom: 1px solid white;
+}
