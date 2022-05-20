@@ -37,7 +37,7 @@ span.organizer_img_container {
 
 /* schedule table */
 td, th {
-    padding: 2px 5px;
+    padding: 5px 10px;
 }
 
 th {
@@ -49,6 +49,7 @@ td.time, th.time {
 }
 
 td.session, th.session{
+    text-align: left;
     width: 80%
 }
 
