@@ -59,3 +59,8 @@ tr.border-top {
 tr.border-bottom {
     border-bottom: 1px solid white;
 }
+
+p.organizer-text {
+    line-height: 16px;
+    font-size: 12px;
+}
